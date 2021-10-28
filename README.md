@@ -4,4 +4,4 @@ ParseVideo是一个学习项目，主要学习安卓开发和反编译技术。�
 
 **相关教程：**
 
-<video src="https://cdn.jsdelivr.net/gh/gorhamchan/cdn/parsevideodemo/master.m3u8" controls="controls"></video>
+<video src="https://cdn.jsdelivr.net/gh/gorhamchan/cdn/parsevideodemo/master.m3u8" width="320" height="240" controls></video>
