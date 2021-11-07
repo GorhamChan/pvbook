@@ -3,8 +3,6 @@
 > - 优化若干问题；
 > - 添加字幕显示。
 
-[下载地址](https://gorhamchan.github.io/json/download.html)
-
 #### 2021-08-22 v2.5.4(218)：
 
 > - 优化若干问题；
