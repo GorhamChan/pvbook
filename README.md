@@ -18,5 +18,7 @@ https://pan.baidu.com/s/1yM_5AEwbqQZPWIAVV3wLog?pwd=hw12
 
 ##### 相关教程：
 
-<video src="https://cugeducn-my.sharepoint.com/personal/20141004106_cug_edu_cn/_layouts/52/download.aspx?share=EZ_jNAE5CORMjcRgp17Mp0EBEfNaYh_IoG9D0pXfKwY_3g
-" width="320" height="240" controls></video>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113900787865446&bvid=BV1ggfDYLELW&cid=28112522780&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+
