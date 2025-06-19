@@ -4,17 +4,7 @@
 
 **注：本软件使用的基本为官方API，不存在会上传信息至私人服务器。**
 
-##### 下载地址：
 
-https://gorham.lanzoum.com/b00tjk6hc 密码:akx9
-
-或
-
-https://www.123pan.com/s/LTAtVv-IGZq3.html
-
-或
-
-https://pan.baidu.com/s/1yM_5AEwbqQZPWIAVV3wLog?pwd=hw12 
 
 ##### 相关教程：
 
